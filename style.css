@@ -1,0 +1,20 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    font-family: "Poppins", sans-serif;
+    background-color: lightblue;
+}
+
+.white-rounded {
+    background-color: white;
+    border-radius: 10px;
+}
+
+li {
+    text-transform: capitalize;
+    line-height: 3rem;
+}
+
+.checked {
+    text-decoration: line-through;
+}
